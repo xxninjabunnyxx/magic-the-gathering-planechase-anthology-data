@@ -1,0 +1,16 @@
+---
+object: set
+id: ceadd605-dfba-4998-b96d-e8e8138aa20f
+code: pca
+tcgplayer_id: 1793
+name: Planechase Anthology
+uri: https://api.scryfall.com/sets/ceadd605-dfba-4998-b96d-e8e8138aa20f
+scryfall_uri: https://scryfall.com/sets/pca
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apca&unique=prints
+released_at: '2016-11-25'
+set_type: planechase
+card_count: 156
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/pca.svg?1694404800

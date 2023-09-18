@@ -1,0 +1,123 @@
+---
+object: card
+id: '038b1aa1-60de-4047-a927-1a7e62209041'
+oracle_id: 3b9b5b22-5a7d-4e37-a870-ca0f0efa4f36
+multiverse_ids:
+- 423436
+tcgplayer_id: 125501
+cardmarket_id: 294249
+name: Sigil of the Empty Throne
+lang: en
+released_at: '2016-11-25'
+uri: https://api.scryfall.com/cards/038b1aa1-60de-4047-a927-1a7e62209041
+scryfall_uri: https://scryfall.com/card/pca/11/sigil-of-the-empty-throne?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/3/038b1aa1-60de-4047-a927-1a7e62209041.jpg?1562895666
+  normal: https://cards.scryfall.io/normal/front/0/3/038b1aa1-60de-4047-a927-1a7e62209041.jpg?1562895666
+  large: https://cards.scryfall.io/large/front/0/3/038b1aa1-60de-4047-a927-1a7e62209041.jpg?1562895666
+  png: https://cards.scryfall.io/png/front/0/3/038b1aa1-60de-4047-a927-1a7e62209041.png?1562895666
+  art_crop: https://cards.scryfall.io/art_crop/front/0/3/038b1aa1-60de-4047-a927-1a7e62209041.jpg?1562895666
+  border_crop: https://cards.scryfall.io/border_crop/front/0/3/038b1aa1-60de-4047-a927-1a7e62209041.jpg?1562895666
+mana_cost: "{3}{W}{W}"
+cmc: 5.0
+type_line: Enchantment
+oracle_text: Whenever you cast an enchantment spell, create a 4/4 white Angel creature
+  token with flying.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: '038b1aa1-60de-4047-a927-1a7e62209041'
+  component: combo_piece
+  name: Sigil of the Empty Throne
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/038b1aa1-60de-4047-a927-1a7e62209041
+- object: related_card
+  id: 964b7e7f-af5d-495a-80a6-2fc87e35e358
+  component: token
+  name: Angel
+  type_line: Token Creature — Angel
+  uri: https://api.scryfall.com/cards/964b7e7f-af5d-495a-80a6-2fc87e35e358
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ceadd605-dfba-4998-b96d-e8e8138aa20f
+set: pca
+set_name: Planechase Anthology
+set_type: planechase
+set_uri: https://api.scryfall.com/sets/ceadd605-dfba-4998-b96d-e8e8138aa20f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apca&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pca?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/038b1aa1-60de-4047-a927-1a7e62209041/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3b9b5b22-5a7d-4e37-a870-ca0f0efa4f36&unique=prints
+collector_number: '11'
+digital: false
+rarity: rare
+flavor_text: When Asha left Bant, she ensured that the world would have protection
+  and order in her absence.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Cyril Van Der Haegen
+artist_ids:
+- 90edbd2e-9462-4394-b0b4-02885b4e56b3
+illustration_id: 89244b2d-e063-4859-8c44-8e5d319aa56c
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 924
+penny_rank: 2256
+prices:
+  usd: '1.25'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.28'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423436
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sigil+of+the+Empty+Throne&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sigil+of+the+Empty+Throne&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sigil+of+the+Empty+Throne
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/125501?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sigil+of+the+Empty+Throne&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sigil+of+the+Empty+Throne&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

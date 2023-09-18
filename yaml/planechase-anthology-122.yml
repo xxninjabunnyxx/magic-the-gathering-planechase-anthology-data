@@ -1,0 +1,123 @@
+---
+object: card
+id: 4420aa7e-da2b-44b1-8047-0be148c99827
+oracle_id: b2d5ba45-8674-4428-89db-c2bbbf0bf5c5
+multiverse_ids:
+- 423547
+tcgplayer_id: 125453
+cardmarket_id: 294360
+name: Khalni Garden
+lang: en
+released_at: '2016-11-25'
+uri: https://api.scryfall.com/cards/4420aa7e-da2b-44b1-8047-0be148c99827
+scryfall_uri: https://scryfall.com/card/pca/122/khalni-garden?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/4/4420aa7e-da2b-44b1-8047-0be148c99827.jpg?1562907440
+  normal: https://cards.scryfall.io/normal/front/4/4/4420aa7e-da2b-44b1-8047-0be148c99827.jpg?1562907440
+  large: https://cards.scryfall.io/large/front/4/4/4420aa7e-da2b-44b1-8047-0be148c99827.jpg?1562907440
+  png: https://cards.scryfall.io/png/front/4/4/4420aa7e-da2b-44b1-8047-0be148c99827.png?1562907440
+  art_crop: https://cards.scryfall.io/art_crop/front/4/4/4420aa7e-da2b-44b1-8047-0be148c99827.jpg?1562907440
+  border_crop: https://cards.scryfall.io/border_crop/front/4/4/4420aa7e-da2b-44b1-8047-0be148c99827.jpg?1562907440
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Khalni Garden enters the battlefield tapped.
+  When Khalni Garden enters the battlefield, create a 0/1 green Plant creature token.
+  {T}: Add {G}.
+colors: []
+color_identity:
+- G
+keywords: []
+produced_mana:
+- G
+all_parts:
+- object: related_card
+  id: 4420aa7e-da2b-44b1-8047-0be148c99827
+  component: combo_piece
+  name: Khalni Garden
+  type_line: Land
+  uri: https://api.scryfall.com/cards/4420aa7e-da2b-44b1-8047-0be148c99827
+- object: related_card
+  id: 2e52ae24-f5a0-45a8-88e7-19b8e91c611a
+  component: token
+  name: Plant
+  type_line: Token Creature — Plant
+  uri: https://api.scryfall.com/cards/2e52ae24-f5a0-45a8-88e7-19b8e91c611a
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ceadd605-dfba-4998-b96d-e8e8138aa20f
+set: pca
+set_name: Planechase Anthology
+set_type: planechase
+set_uri: https://api.scryfall.com/sets/ceadd605-dfba-4998-b96d-e8e8138aa20f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apca&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pca?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4420aa7e-da2b-44b1-8047-0be148c99827/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2d5ba45-8674-4428-89db-c2bbbf0bf5c5&unique=prints
+collector_number: '122'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ryan Pancoast
+artist_ids:
+- 89cc9475-dda2-4d13-bf88-54b92867a25c
+illustration_id: 9e8283ec-3b06-4f0c-b57b-4460cc5668f2
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 2000
+penny_rank: 1266
+prices:
+  usd: '0.48'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.85'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423547
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Khalni+Garden&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Khalni+Garden&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Khalni+Garden
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/125453?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Khalni+Garden&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Khalni+Garden&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

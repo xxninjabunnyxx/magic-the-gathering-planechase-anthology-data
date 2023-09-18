@@ -1,0 +1,108 @@
+---
+object: card
+id: e180e418-f62e-4b4b-a07a-bdc523a6addb
+oracle_id: 8b755881-a72d-4e21-a369-d2924eb4585a
+multiverse_ids:
+- 423487
+tcgplayer_id: 125403
+cardmarket_id: 294300
+name: Cultivate
+lang: en
+released_at: '2016-11-25'
+uri: https://api.scryfall.com/cards/e180e418-f62e-4b4b-a07a-bdc523a6addb
+scryfall_uri: https://scryfall.com/card/pca/62/cultivate?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/1/e180e418-f62e-4b4b-a07a-bdc523a6addb.jpg?1562937145
+  normal: https://cards.scryfall.io/normal/front/e/1/e180e418-f62e-4b4b-a07a-bdc523a6addb.jpg?1562937145
+  large: https://cards.scryfall.io/large/front/e/1/e180e418-f62e-4b4b-a07a-bdc523a6addb.jpg?1562937145
+  png: https://cards.scryfall.io/png/front/e/1/e180e418-f62e-4b4b-a07a-bdc523a6addb.png?1562937145
+  art_crop: https://cards.scryfall.io/art_crop/front/e/1/e180e418-f62e-4b4b-a07a-bdc523a6addb.jpg?1562937145
+  border_crop: https://cards.scryfall.io/border_crop/front/e/1/e180e418-f62e-4b4b-a07a-bdc523a6addb.jpg?1562937145
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Search your library for up to two basic land cards, reveal those cards,
+  put one onto the battlefield tapped and the other into your hand, then shuffle.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ceadd605-dfba-4998-b96d-e8e8138aa20f
+set: pca
+set_name: Planechase Anthology
+set_type: planechase
+set_uri: https://api.scryfall.com/sets/ceadd605-dfba-4998-b96d-e8e8138aa20f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apca&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pca?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e180e418-f62e-4b4b-a07a-bdc523a6addb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8b755881-a72d-4e21-a369-d2924eb4585a&unique=prints
+collector_number: '62'
+digital: false
+rarity: common
+flavor_text: All seeds share a common bond, calling to each other across infinity.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anthony Palumbo
+artist_ids:
+- afd2d541-4140-41ae-a28f-862436458fcb
+illustration_id: 185ef21e-5abe-4825-bd38-8f9a2e61045e
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 15
+penny_rank: 1001
+prices:
+  usd: '1.27'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423487
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cultivate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cultivate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cultivate
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/125403?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cultivate&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cultivate&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

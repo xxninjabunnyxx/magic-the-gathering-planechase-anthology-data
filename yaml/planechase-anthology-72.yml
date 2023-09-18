@@ -1,0 +1,107 @@
+---
+object: card
+id: 831ab648-e436-4b23-9b63-858d9d2e0414
+oracle_id: 204f9afe-c20b-4933-b5cd-aa572784762a
+multiverse_ids:
+- 423497
+tcgplayer_id: 125478
+cardmarket_id: 294310
+name: Overrun
+lang: en
+released_at: '2016-11-25'
+uri: https://api.scryfall.com/cards/831ab648-e436-4b23-9b63-858d9d2e0414
+scryfall_uri: https://scryfall.com/card/pca/72/overrun?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/3/831ab648-e436-4b23-9b63-858d9d2e0414.jpg?1562919334
+  normal: https://cards.scryfall.io/normal/front/8/3/831ab648-e436-4b23-9b63-858d9d2e0414.jpg?1562919334
+  large: https://cards.scryfall.io/large/front/8/3/831ab648-e436-4b23-9b63-858d9d2e0414.jpg?1562919334
+  png: https://cards.scryfall.io/png/front/8/3/831ab648-e436-4b23-9b63-858d9d2e0414.png?1562919334
+  art_crop: https://cards.scryfall.io/art_crop/front/8/3/831ab648-e436-4b23-9b63-858d9d2e0414.jpg?1562919334
+  border_crop: https://cards.scryfall.io/border_crop/front/8/3/831ab648-e436-4b23-9b63-858d9d2e0414.jpg?1562919334
+mana_cost: "{2}{G}{G}{G}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: Creatures you control get +3/+3 and gain trample until end of turn.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ceadd605-dfba-4998-b96d-e8e8138aa20f
+set: pca
+set_name: Planechase Anthology
+set_type: planechase
+set_uri: https://api.scryfall.com/sets/ceadd605-dfba-4998-b96d-e8e8138aa20f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apca&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pca?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/831ab648-e436-4b23-9b63-858d9d2e0414/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A204f9afe-c20b-4933-b5cd-aa572784762a&unique=prints
+collector_number: '72'
+digital: false
+rarity: uncommon
+flavor_text: Nature doesn't walk.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: 548a75f8-7ac3-4045-a729-7018fcc4048a
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1657
+penny_rank: 2102
+prices:
+  usd: '0.30'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.19'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423497
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Overrun&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Overrun&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Overrun
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/125478?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Overrun&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Overrun&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

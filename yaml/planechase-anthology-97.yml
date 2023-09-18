@@ -1,0 +1,115 @@
+---
+object: card
+id: 136cd9f2-fb9a-4b28-a711-0bb0ff170194
+oracle_id: 60b6e96a-63e6-4520-b2dd-b20b7dfbcd57
+multiverse_ids:
+- 423522
+tcgplayer_id: 125444
+cardmarket_id: 294335
+name: Inkfathom Witch
+lang: en
+released_at: '2016-11-25'
+uri: https://api.scryfall.com/cards/136cd9f2-fb9a-4b28-a711-0bb0ff170194
+scryfall_uri: https://scryfall.com/card/pca/97/inkfathom-witch?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/3/136cd9f2-fb9a-4b28-a711-0bb0ff170194.jpg?1562898728
+  normal: https://cards.scryfall.io/normal/front/1/3/136cd9f2-fb9a-4b28-a711-0bb0ff170194.jpg?1562898728
+  large: https://cards.scryfall.io/large/front/1/3/136cd9f2-fb9a-4b28-a711-0bb0ff170194.jpg?1562898728
+  png: https://cards.scryfall.io/png/front/1/3/136cd9f2-fb9a-4b28-a711-0bb0ff170194.png?1562898728
+  art_crop: https://cards.scryfall.io/art_crop/front/1/3/136cd9f2-fb9a-4b28-a711-0bb0ff170194.jpg?1562898728
+  border_crop: https://cards.scryfall.io/border_crop/front/1/3/136cd9f2-fb9a-4b28-a711-0bb0ff170194.jpg?1562898728
+mana_cost: "{1}{U/B}"
+cmc: 2.0
+type_line: Creature — Merfolk Wizard
+oracle_text: |-
+  Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+  {2}{U}{B}: Each unblocked creature has base power and toughness 4/1 until end of turn.
+power: '1'
+toughness: '1'
+colors:
+- B
+- U
+color_identity:
+- B
+- U
+keywords:
+- Fear
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ceadd605-dfba-4998-b96d-e8e8138aa20f
+set: pca
+set_name: Planechase Anthology
+set_type: planechase
+set_uri: https://api.scryfall.com/sets/ceadd605-dfba-4998-b96d-e8e8138aa20f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apca&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pca?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/136cd9f2-fb9a-4b28-a711-0bb0ff170194/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A60b6e96a-63e6-4520-b2dd-b20b7dfbcd57&unique=prints
+collector_number: '97'
+digital: false
+rarity: uncommon
+flavor_text: The murk of the Wanderbrine concealed unseemly rituals designed to bring
+  out the worst in merrowkind.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Larry MacDougall
+artist_ids:
+- 73932957-e76e-4ff0-8f0a-b3ad2d8dfae2
+illustration_id: 1f5cb13b-01d1-4330-aa2c-d8726d1c389b
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 9114
+penny_rank: 6431
+prices:
+  usd: '0.10'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423522
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Inkfathom+Witch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Inkfathom+Witch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Inkfathom+Witch
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/125444?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Inkfathom+Witch&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Inkfathom+Witch&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
